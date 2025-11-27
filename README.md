@@ -1,6 +1,4 @@
-# ABS (Absorbing Boundary Condition) - Figure Reproduction Codes
-
-This repository contains the **MATLAB codes** to reproduce all figures from the related manuscript.
+# ABS This repository contains the **MATLAB codes** to reproduce all figures from the related manuscript.
 
 > **Some functions in the package are used**: [CREWES Research Consortium - Free Software](https://www.crewes.org/ResearchLinks/FreeSoftware/)
 
